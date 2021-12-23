@@ -1,3 +1,4 @@
 ./venv
 ./databases/*
 ./app/static/tasks_files/*
+**/__pycache__/
